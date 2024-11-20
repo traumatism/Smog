@@ -1,4 +1,4 @@
-dnspython==2.1.0
+dnspython==2.6.1
 requests==2.31.0
 requests-toolbelt==0.9.1
 rich==10.14.0
